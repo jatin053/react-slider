@@ -37,6 +37,7 @@ const Slider = () => {
 
 
                     >
+
                         <StudioLights />
                         <Ring position={[0, 0, 0]} />
 
@@ -77,6 +78,7 @@ const Slider = () => {
 
 
                         <StudioLights />
+
                         <Sortiq
                             scale={0.5}
                             position={[0, -1.8, 0]}
