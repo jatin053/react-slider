@@ -24,7 +24,7 @@ const Slider = () => {
 
 
     return (
-        <section className="w-full flex justify-center mt-6">
+        <section className="w-full flex justify-center mt-0">
 
 
             <div className="w-full max-w-[1880px] h-[600px] flex justify-between shadow-2xl bg-[url(/images/final.jpg)] bg-cover bg-center relative overflow-hidden px-10">
